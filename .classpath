@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="Manager/|Manager/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/activemq/apache-activemq-5.18.3/lib/optional/log4j-api-2.20.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/activemq/apache-activemq-5.18.3/lib/optional/log4j-core-2.20.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/activemq/apache-activemq-5.18.3/activemq-all-5.18.3.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/activemq/apache-activemq-5.18.3/lib/jackson-annotations-2.15.3.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/activemq/apache-activemq-5.18.3/lib/jackson-core-2.15.3.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/activemq/apache-activemq-5.18.3/lib/jackson-databind-2.15.3.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/activemq/apache-activemq-5.18.3/lib/jakarta.jms-api-2.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
